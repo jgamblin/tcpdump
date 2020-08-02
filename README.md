@@ -1,5 +1,5 @@
 # TCPDUMP
-A container that runs runs TCP dump.
+A container that runs TCP dump.
 [More Details On My Blog](https://jerrygamblin.com/2016/05/28/a-docker-container-to-capture-all-traffic-from-host/)
 
 ### Easy Run: 
